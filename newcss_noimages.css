@@ -259,7 +259,8 @@ body {
 
   display: flex;
   justify-content: center;
-
+  align-items: center;
+  min-height: 100vh;
   /* background-color: black; */
   border: 5px ridge lawngreen;
   /* text-shadow: 2px 2px lightblue; */
